@@ -1,0 +1,65 @@
+body{
+  text-align: center;
+  background-color: #e0ffff	;
+  margin: 0;
+  padding: 100px;
+  position:relative;
+}
+
+
+h1
+{
+  width: 15%;
+  margin: 50px auto 50px auto;
+  color: #66BFBF;
+
+
+font-family: 'Sacramento', cursive;
+
+
+
+}
+.second
+{
+  position: absolute;
+  left: 300px;
+  bottom: 350px;
+  right: 20px;
+
+
+
+}
+
+.top
+{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+
+.circlur{
+
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
+.div
+{
+  display: inline-block;
+}
+
+.mos{
+  position:relative;
+
+}
+h3
+{
+  font-size: 2rem;
+  color: #11999E;
+  font-weight: normal;
+}
+a{
+  color: red;
+}
